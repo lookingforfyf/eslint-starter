@@ -1,0 +1,54 @@
+{
+    "editor.codeActionsOnSave": {
+        
+    }
+} // {
+//     "typescript.tsc.autoDetect": "off", // 关闭 TypeScript 构建任务自动检测
+//     "grunt.autoDetect": "off",          // 关闭 Grunt 任务自动检测
+//     "jake.autoDetect": "off",           // 关闭 Jake 任务自动检测
+//     "gulp.autoDetect": "off",           // 关闭 Gulp 任务自动检测
+//     "npm.autoDetect": "off"             // 关闭 npm 任务自动检测
+//   }
+  
+
+//   {
+// 	"version": "2.0.0",
+// 	"tasks": [
+// 		{
+// 			"type": "npm",
+// 			"script": "lint",
+// 			"problemMatcher": [
+// 				"$eslint-stylish"
+// 			],
+// 			"label": "npm: lint",
+// 			"detail": "eslint src"
+// 		},
+// 		{
+// 			"type": "npm",
+// 			"script": "start",
+// 			"problemMatcher": [
+// 				"$eslint-stylish"
+// 			],
+// 			"label": "npm: start",
+// 			"detail": "node ."
+// 		},
+// 		{
+// 			"type": "npm",
+// 			"script": "test",
+// 			"problemMatcher": [
+// 				"$eslint-stylish"
+// 			],
+// 			"label": "npm: test",
+// 			"detail": "npm run lint && echo \"Write some tests!\""
+// 		},
+// 		{
+// 			"type": "npm",
+// 			"script": "watch",
+// 			"problemMatcher": [
+// 				"$eslint-stylish"
+// 			],
+// 			"label": "npm: watch",
+// 			"detail": "nodemon --watch src --exec \"npm run test && npm run start\""
+// 		}
+// 	]
+// }

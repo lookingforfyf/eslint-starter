@@ -15,19 +15,18 @@
     "starter",
     "example",
     "atom",
-    "standard",
-    "standardjs"
+    "standard"
   ],
   "author": "Michael Trotter",
   "license": "MIT",
   "repository": "https://github.com/spicydonuts/eslint-starter",
   "devDependencies": {
-    "eslint": "^1.10.3",
-    "eslint-config-standard": "^4.4.0",
-    "eslint-plugin-standard": "^1.3.1",
-    "nodemon": "^1.8.1"
+    "eslint": "^8.0.1",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-standard": "^5.0.0",
+    "nodemon": "^3.1.9"
   },
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.21.2"
   }
 }
